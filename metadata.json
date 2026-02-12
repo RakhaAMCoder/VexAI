@@ -1,0 +1,7 @@
+{
+  "name": "Vex AI",
+  "description": "A high-performance AI image generation and editing platform powered by Gemini Nano Banana technology, featuring advanced ratio control, reference images, and AI-powered creative assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
